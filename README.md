@@ -12,6 +12,8 @@
 
 - 确保安装好了油猴插件
 - 确保安装好了“bipt北石化教学评价脚本”的油猴脚本
+脚本链接如下：
+  [https://greasyfork.org/zhCN/scripts/456845bipt%E5%8C%97%E7%9F%B3%E5%8C%96%E6%95%99%E5%AD%A6%E8%AF%84%E4%BB%B7%E8%84%9A%E6%9C%AC]: 
 
 ## 使用方法
 
