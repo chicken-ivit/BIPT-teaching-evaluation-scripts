@@ -16,19 +16,9 @@
 
 ## 使用方法
 
-第一步：进入教务系统后，按`f12`进入开发者模式。
-
-然后点击下图中红框的按钮。
-
-![1](https://github.com/chicken-ivit/BIPT-teaching-evaluation-scripts/blob/main/img/1.png)
-
-第二步：鼠标点击教学评价，此时会看到右边的代码里有一个“教学评价”，并且上放有一个链接，此时点击链接。
-
-![2](https://github.com/chicken-ivit/BIPT-teaching-evaluation-scripts/blob/main/img/2.png)
-
-第三步：点击链接后，你将进入到下面的页面，此时只需要逐个点击评估即可自动填写，确保无误后，需手动提交。
-
-![3](https://github.com/chicken-ivit/BIPT-teaching-evaluation-scripts/blob/main/img/3.png)
+确保安装好了脚本并开启脚本后
+进入教务系统后，打开教学评价页面，点击评估后即可完成自动填写
+填写完成后需要确保无误后手动提交
 
 ## 注意！
 
